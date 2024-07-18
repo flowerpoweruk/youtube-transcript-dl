@@ -1,3 +1,5 @@
+![Screenshot of YouTube Caption Downloader](./screenshot.png)
+
 # YouTube Caption Downloader
 
 YouTube Caption Downloader is a user-friendly desktop application that allows you to easily download and save captions (subtitles) from YouTube videos. Built with Python and PyQt6, this tool provides a simple and efficient way to access text content from YouTube videos for various purposes such as content analysis, transcription, or language learning.
